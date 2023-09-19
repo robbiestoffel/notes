@@ -1,4 +1,4 @@
-## General Commands (already basic knowledge)
+## General Bash Commands
 
 * `sudo su -` become the **root** user, this will require a password.
 * `cat` - displays a file in the terminal
